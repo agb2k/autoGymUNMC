@@ -1,2 +1,2 @@
 # autoGym-Booker
-Used to automatically book slots for the Nottingham Malaysia Gym
+Python script utilizing web scraping and automation with Selenium to automatically book gym slots in the UNMC Gym
